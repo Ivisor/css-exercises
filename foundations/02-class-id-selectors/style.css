@@ -1,0 +1,18 @@
+.odd {
+    background-color: #ff8282;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#oneid {
+    color: #1100ff;
+    font-size: 36px;
+}
+
+.biggerodd {
+    font-size: 24px;
+}
+
+#twoid {
+    background-color: #88ff63;
+    font-weight: bold;
+}
